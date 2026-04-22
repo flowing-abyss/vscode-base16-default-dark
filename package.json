@@ -1,0 +1,38 @@
+{
+    "name": "base16-default-dark",
+    "displayName": "Base16 Default Dark",
+    "description": "Base16 Default Dark theme for VS Code, ported from Zed",
+    "version": "1.0.0",
+    "publisher": "flowing-abyss",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "git@github.com:flowing-abyss/vscode-base16-default-dark.git"
+    },
+    "bugs": {
+        "url": "https://github.com/flowing-abyss/vscode-base16-default-dark/issues"
+    },
+    "homepage": "https://github.com/flowing-abyss/vscode-base16-default-dark#readme",
+    "keywords": [
+        "theme",
+        "dark",
+        "base16"
+    ],
+    "galleryBanner": {
+        "color": "#181818",
+        "theme": "dark"
+    },
+    "engines": {
+        "vscode": "^1.74.0"
+    },
+    "categories": ["Themes"],
+    "contributes": {
+        "themes": [
+            {
+                "label": "Base16 Default Dark",
+                "uiTheme": "vs-dark",
+                "path": "./themes/base16-default-dark.json"
+            }
+        ]
+    }
+}
