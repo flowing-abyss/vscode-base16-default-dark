@@ -1,6 +1,6 @@
 # Base16 Default Dark
 
-A dark theme for VS Code:, based on the [Base16](https://github.com/chriskempson/base16) color scheme.
+A dark theme for VS Code, based on the [Base16](https://github.com/chriskempson/base16) color scheme.
 
 ## Install
 
